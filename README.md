@@ -1,4 +1,3 @@
-# GPT-NLP-Project
 # AI-Driven NLP Project using GPT-2
 
 This project demonstrates the implementation and analysis of GPT-2, a language model, using Jupyter Notebook and Hugging Face Transformers.
